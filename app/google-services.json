@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1044350393339",
+    "project_id": "pyatakov-71e43",
+    "storage_bucket": "pyatakov-71e43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044350393339:android:a8006154b5d821f777c95e",
+        "android_client_info": {
+          "package_name": "com.example.homeworks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044350393339-5bbigsb1o1ch3m7gcol824kk21dfgbp6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiob3wQ8gYT6X3YNKyDM86zwL7qmxk82U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044350393339-5bbigsb1o1ch3m7gcol824kk21dfgbp6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
